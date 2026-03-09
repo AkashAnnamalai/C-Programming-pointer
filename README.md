@@ -45,7 +45,6 @@ Pointers are variables that store memory addresses. They are fundamental to C pr
 
 ## 🚀 Quick Start
 
-```bash
 git clone https://github.com/AkashAnnamalai/C-Programming-pointer.git
 MIT License
 
